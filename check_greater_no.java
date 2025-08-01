@@ -8,10 +8,10 @@ public class check_greater_no {
     int num1 =sc.nextInt();//taking input
     System.out.println("enter the number 2");
     int num2=sc.nextInt();//taking input 
-     if (num % 2 != 0) {
-            System.out.println(num + " is odd");
+     if (num1>num2) {
+            System.out.println(num1 + " is the greater number");
         } else {
-            System.out.println(num + " is even");
+            System.out.println(num2 + " is the greater number");
         }
 
     }
