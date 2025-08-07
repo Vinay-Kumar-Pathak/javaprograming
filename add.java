@@ -6,7 +6,6 @@ public class add {
 
         System.out.print("Enter a number (n): ");
         int n = scanner.nextInt();
-
         /*int i = 2;
         int sum = 0;
 
