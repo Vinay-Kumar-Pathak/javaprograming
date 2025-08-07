@@ -1,13 +1,11 @@
 public class PrintAlphabets {
     public static void main(String[] args) {
-        char ch = 'A'; // Starting character
+        char c= 'A';
 
         System.out.println("Alphabets from A to Z:");
-
-        // Loop until character reaches 'Z'
-        while (ch <= 'Z') {
-            System.out.print(ch + " ");
-            ch++;
+        while (c <= 'Z') {
+            System.out.print(c+" ");
+            c++;
         }
     }
 }
