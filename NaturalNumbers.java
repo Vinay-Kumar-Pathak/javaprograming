@@ -5,12 +5,16 @@ public class NaturalNumbers {
         System.out.print("Enter a number (n): ");
         int n = scanner.nextInt();
         
-        int i = 1;
-
-        System.out.println(n);
+       /*int i = 1;
         while (i <= n) {
             System.out.print(i + " ");
             i++;
+        }*/
+        int i=n;
+         while (i >= 1) {
+            System.out.print(i + " ");
+            i--;
         }
-    }
+
+}
 }
