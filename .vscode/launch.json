@@ -1,0 +1,175 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "FirstLastDigitSum",
+            "request": "launch",
+            "mainClass": "FirstLastDigitSum",
+            "projectName": "javaprograming_e56a6139"
+        },
+        {
+            "type": "java",
+            "name": "NaturalNumbers",
+            "request": "launch",
+            "mainClass": "NaturalNumbers",
+            "projectName": "javaprograming_e56a6139"
+        },
+        {
+            "type": "java",
+            "name": "PrintAlphabets",
+            "request": "launch",
+            "mainClass": "PrintAlphabets",
+            "projectName": "javaprograming_e56a6139"
+        },
+        {
+            "type": "java",
+            "name": "add",
+            "request": "launch",
+            "mainClass": "add",
+            "projectName": "javaprograming_e56a6139"
+        },
+        {
+            "type": "java",
+            "name": "addidng",
+            "request": "launch",
+            "mainClass": "addidng",
+            "projectName": "javaprograming_e56a6139"
+        },
+        {
+            "type": "java",
+            "name": "array_reverse",
+            "request": "launch",
+            "mainClass": "array_reverse",
+            "projectName": "javaprograming_e56a6139"
+        },
+        {
+            "type": "java",
+            "name": "check_greater_no",
+            "request": "launch",
+            "mainClass": "check_greater_no",
+            "projectName": "javaprograming_e56a6139"
+        },
+        {
+            "type": "java",
+            "name": "check_vowel",
+            "request": "launch",
+            "mainClass": "check_vowel",
+            "projectName": "javaprograming_e56a6139"
+        },
+        {
+            "type": "java",
+            "name": "checking_leapyear",
+            "request": "launch",
+            "mainClass": "checking_leapyear",
+            "projectName": "javaprograming_e56a6139"
+        },
+        {
+            "type": "java",
+            "name": "circle_variable",
+            "request": "launch",
+            "mainClass": "circle_variable",
+            "projectName": "javaprograming_e56a6139"
+        },
+        {
+            "type": "java",
+            "name": "codes",
+            "request": "launch",
+            "mainClass": "codes",
+            "projectName": "javaprograming_e56a6139"
+        },
+        {
+            "type": "java",
+            "name": "even_odd",
+            "request": "launch",
+            "mainClass": "even_odd",
+            "projectName": "javaprograming_e56a6139"
+        },
+        {
+            "type": "java",
+            "name": "evenwhileloop",
+            "request": "launch",
+            "mainClass": "evenwhileloop",
+            "projectName": "javaprograming_e56a6139"
+        },
+        {
+            "type": "java",
+            "name": "java_basic",
+            "request": "launch",
+            "mainClass": "java_basic",
+            "projectName": "javaprograming_e56a6139"
+        },
+        {
+            "type": "java",
+            "name": "multipy",
+            "request": "launch",
+            "mainClass": "multipy",
+            "projectName": "javaprograming_e56a6139"
+        },
+        {
+            "type": "java",
+            "name": "palindrome",
+            "request": "launch",
+            "mainClass": "palindrome",
+            "projectName": "javaprograming_e56a6139"
+        },
+        {
+            "type": "java",
+            "name": "positive_negative",
+            "request": "launch",
+            "mainClass": "positive_negative",
+            "projectName": "javaprograming_e56a6139"
+        },
+        {
+            "type": "java",
+            "name": "prime_no",
+            "request": "launch",
+            "mainClass": "prime_no",
+            "projectName": "javaprograming_e56a6139"
+        },
+        {
+            "type": "java",
+            "name": "principle_intrest",
+            "request": "launch",
+            "mainClass": "principle_intrest",
+            "projectName": "javaprograming_e56a6139"
+        },
+        {
+            "type": "java",
+            "name": "typecassting",
+            "request": "launch",
+            "mainClass": "typecassting",
+            "projectName": "javaprograming_e56a6139"
+        },
+        {
+            "type": "java",
+            "name": "while_adding",
+            "request": "launch",
+            "mainClass": "while_adding",
+            "projectName": "javaprograming_e56a6139"
+        },
+        {
+            "type": "java",
+            "name": "while_evenodd",
+            "request": "launch",
+            "mainClass": "while_evenodd",
+            "projectName": "javaprograming_e56a6139"
+        },
+        {
+            "type": "java",
+            "name": "while_loop",
+            "request": "launch",
+            "mainClass": "while_loop",
+            "projectName": "javaprograming_e56a6139"
+        }
+    ]
+}
