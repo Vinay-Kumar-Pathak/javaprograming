@@ -1,5 +1,5 @@
 import java.util.*;
-public class javabasics {
+public class javabasicsoperation {
     public static void Operations(int num1,int num2){
         System.out.println("add: "+ (num1+num2));
         System.out.println("sub: "+ (num1-num2));
