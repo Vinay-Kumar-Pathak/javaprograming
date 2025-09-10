@@ -1,5 +1,4 @@
 import java.util.Scanner;
-public class upppercase {
 
 
 public class LowerToUpper {
@@ -15,4 +14,3 @@ public class LowerToUpper {
     }
 }
   
-}
